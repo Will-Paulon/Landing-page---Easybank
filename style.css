@@ -86,6 +86,7 @@ nav a{
 
 .titulo_primario{
     
+    
 font-size: 72px;
   line-height: 1.2;
   text-align: center;
@@ -108,8 +109,14 @@ font-size: 72px;
 
 
 .img{
-    background-image:url(/Landing-page---Easybank/images/bg-intro-desktop.svg);
-    align-self: flex-start;
-    background-position: top;
+    background-image: url(images/bg-intro-desktop.svg);
+    
+    
+
+}
+
+.img{
+
+    position: top;
 
 }
