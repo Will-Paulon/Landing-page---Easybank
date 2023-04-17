@@ -1,5 +1,5 @@
 
- # Frontend Mentor - Easybank landing page
+ # Frontend Mentor - Easybank landing page https://will-paulon.github.io/Landing-page---Easybank/
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
